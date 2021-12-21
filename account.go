@@ -8,7 +8,7 @@ import (
 	"github.com/jflyup/decimal"
 	"github.com/pkg/errors"
 
-	"github.com/grishinsana/goftx/models"
+	"github.com/jflyup/goftx/models"
 )
 
 const (

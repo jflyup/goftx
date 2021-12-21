@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"net/http"
 
+	"github.com/jflyup/decimal"
 	"github.com/pkg/errors"
-	"github.com/shopspring/decimal"
 
 	"github.com/grishinsana/goftx/models"
 )

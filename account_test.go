@@ -4,8 +4,8 @@ import (
 	"os"
 	"testing"
 
+	"github.com/jflyup/decimal"
 	"github.com/joho/godotenv"
-	"github.com/shopspring/decimal"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

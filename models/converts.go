@@ -1,6 +1,6 @@
 package models
 
-import "github.com/shopspring/decimal"
+import "github.com/jflyup/decimal"
 
 type QuoteStatus struct {
 	BaseCoin  string          `json:"baseCoin"`

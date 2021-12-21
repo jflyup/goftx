@@ -1,7 +1,7 @@
 package models
 
 import (
-	"github.com/shopspring/decimal"
+	"github.com/jflyup/decimal"
 )
 
 type GetFillsParams struct {

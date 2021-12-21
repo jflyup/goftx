@@ -5,7 +5,7 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/shopspring/decimal"
+	"github.com/jflyup/decimal"
 )
 
 type Order struct {

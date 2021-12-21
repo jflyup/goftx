@@ -3,7 +3,7 @@ package models
 import (
 	"time"
 
-	"github.com/shopspring/decimal"
+	"github.com/jflyup/decimal"
 )
 
 type Future struct {

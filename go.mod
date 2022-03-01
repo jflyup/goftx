@@ -1,4 +1,4 @@
-module github.com/grishinsana/goftx
+module github.com/jflyup/goftx
 
 go 1.14
 
